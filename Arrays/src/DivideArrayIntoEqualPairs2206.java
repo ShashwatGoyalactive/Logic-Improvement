@@ -15,6 +15,8 @@ public class DivideArrayIntoEqualPairs2206 {
                 if (val % 2 != 0)
                     return false;
             }
+            String s = "adcs";
+
             return true;
         }
     }
